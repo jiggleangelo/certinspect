@@ -1,0 +1,8 @@
+{
+  "c68421255e4c038fb88d44152379c9ca589a644424fcce6c7235d50901509630": {
+    "status": 0,
+    "stdout": "{\"parent\": [[0, \"id\", \"INTEGER\", 0, null, 1], [1, \"label\", \"TEXT\", 1, null, 0]], \"child\": [[0, \"id\", \"INTEGER\", 0, null, 1], [1, \"parent_id\", \"INTEGER\", 0, null, 0], [2, \"note\", \"VARCHAR(40)\", 0, \"'x,y'\", 0]]}\n",
+    "stderr": "",
+    "after": null
+  }
+}
